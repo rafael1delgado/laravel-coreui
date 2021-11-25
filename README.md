@@ -2,7 +2,7 @@
 
 Proyecto Laravel 8 con CoreUI 3
 
-![Preview Laravel CoreUI](resources/assets/img/preview.png)
+![Preview Laravel CoreUI](resources/assets/img/preview-project.png)
 
 # Instalación
 
